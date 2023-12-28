@@ -1,4 +1,4 @@
-#include "Lg.h"
+#include "lg.h"
 
 using namespace lg;
 
